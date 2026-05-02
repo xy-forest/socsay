@@ -1,0 +1,14 @@
+certifi==2026.4.22
+charset-normalizer==3.4.7
+idna==3.13
+numpy==2.4.4
+opencv-contrib-python==4.13.0.92
+pynput==1.8.1
+pyobjc-core==12.1
+pyobjc-framework-ApplicationServices==12.1
+pyobjc-framework-Cocoa==12.1
+pyobjc-framework-CoreText==12.1
+pyobjc-framework-Quartz==12.1
+requests==2.33.1
+six==1.17.0
+urllib3==2.6.3
